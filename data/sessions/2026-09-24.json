@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-24",
+  "startTime": "09:00",
+  "adminCode": "1990",
+  "members": [],
+  "courts": [
+    {
+      "id": "court-1",
+      "name": "6코트",
+      "number": 1,
+      "totalCones": 0,
+      "reservedCones": 0,
+      "cones": []
+    },
+    {
+      "id": "court-2",
+      "name": "4코트",
+      "number": 2,
+      "totalCones": 0,
+      "reservedCones": 0,
+      "cones": []
+    }
+  ],
+  "games": [],
+  "updatedAt": "2026-09-23T13:20:00.000Z"
+}

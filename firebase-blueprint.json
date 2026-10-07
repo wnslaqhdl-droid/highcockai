@@ -1,0 +1,68 @@
+{
+  "entities": {
+    "Session": {
+      "title": "Session",
+      "description": "Daily badminton session including members, courts, and games",
+      "type": "object",
+      "properties": {
+        "date": {
+          "type": "string",
+          "description": "Date of the session in YYYY-MM-DD format",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "startTime": {
+          "type": "string",
+          "description": "Optional session start time (HH:mm)"
+        },
+        "adminCode": {
+          "type": "string",
+          "description": "Optional admin access code for this session"
+        },
+        "members": {
+          "type": "array",
+          "description": "List of participant members in the session"
+        },
+        "courts": {
+          "type": "array",
+          "description": "List of courts used in the session"
+        },
+        "games": {
+          "type": "array",
+          "description": "List of matches/games in the session"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Last updated timestamp"
+        }
+      },
+      "required": [
+        "date"
+      ]
+    },
+    "MemberRegistry": {
+      "title": "MemberRegistry",
+      "description": "Integrated registry of club members",
+      "type": "object",
+      "properties": {
+        "members": {
+          "type": "object",
+          "description": "Map of members indexed by member ID"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Last updated timestamp"
+        }
+      }
+    }
+  },
+  "firestore": {
+    "/sessions/{date}": {
+      "schema": "Session",
+      "description": "Daily session document stored by date"
+    },
+    "/meta/registry": {
+      "schema": "MemberRegistry",
+      "description": "Club member integrated registry"
+    }
+  }
+}

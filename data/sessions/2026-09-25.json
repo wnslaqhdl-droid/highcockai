@@ -1,0 +1,1270 @@
+{
+  "updatedAt": "2026-09-30T07:59:07.593Z",
+  "members": [
+    {
+      "preferredType": "men",
+      "completedGames": 1,
+      "totalGames": 3,
+      "status": "waiting",
+      "order": 1,
+      "submittedShuttlecock": true,
+      "gender": "M",
+      "id": "batch-1790334119256-fy86i-0",
+      "name": "김완택",
+      "rank": "A",
+      "coneNumber": ""
+    },
+    {
+      "totalGames": 2,
+      "gender": "M",
+      "coneNumber": "",
+      "preferredType": "men",
+      "submittedShuttlecock": true,
+      "id": "batch-1790334119256-4z6sw-1",
+      "name": "김창대",
+      "rank": "A",
+      "completedGames": 1,
+      "status": "waiting",
+      "order": 2
+    },
+    {
+      "gender": "M",
+      "completedGames": 1,
+      "id": "batch-1790334119256-ybnpk-2",
+      "coneNumber": "",
+      "order": 3,
+      "name": "이상일",
+      "rank": "A",
+      "submittedShuttlecock": true,
+      "totalGames": 2,
+      "preferredType": "men",
+      "status": "waiting"
+    },
+    {
+      "completedGames": 1,
+      "order": 4,
+      "gender": "M",
+      "submittedShuttlecock": true,
+      "totalGames": 2,
+      "name": "박준성",
+      "rank": "A",
+      "id": "batch-1790334119256-y3u21-3",
+      "status": "waiting",
+      "coneNumber": "",
+      "preferredType": "men"
+    },
+    {
+      "rank": "A",
+      "name": "정재열",
+      "completedGames": 1,
+      "totalGames": 2,
+      "gender": "M",
+      "status": "waiting",
+      "preferredType": "men",
+      "id": "batch-1790334119256-3057r-4",
+      "order": 5,
+      "submittedShuttlecock": true,
+      "coneNumber": ""
+    },
+    {
+      "order": 6,
+      "coneNumber": "",
+      "submittedShuttlecock": true,
+      "id": "batch-1790334119256-kfb9q-5",
+      "completedGames": 1,
+      "status": "waiting",
+      "rank": "B",
+      "name": "리차",
+      "totalGames": 2,
+      "preferredType": "men",
+      "gender": "M"
+    },
+    {
+      "totalGames": 2,
+      "id": "batch-1790334119256-xdqfo-6",
+      "gender": "M",
+      "completedGames": 1,
+      "preferredType": "men",
+      "submittedShuttlecock": true,
+      "status": "waiting",
+      "coneNumber": "",
+      "order": 7,
+      "name": "주기상",
+      "rank": "B"
+    },
+    {
+      "rank": "B",
+      "name": "박상민",
+      "completedGames": 1,
+      "status": "waiting",
+      "id": "batch-1790334119256-nj5r9-7",
+      "coneNumber": "",
+      "submittedShuttlecock": true,
+      "order": 8,
+      "preferredType": "men",
+      "totalGames": 2,
+      "gender": "M"
+    },
+    {
+      "status": "waiting",
+      "totalGames": 2,
+      "name": "박우영",
+      "rank": "B",
+      "order": 9,
+      "completedGames": 1,
+      "coneNumber": "",
+      "id": "batch-1790334119256-d68rz-8",
+      "submittedShuttlecock": true,
+      "gender": "M",
+      "preferredType": "men"
+    },
+    {
+      "submittedShuttlecock": true,
+      "status": "waiting",
+      "totalGames": 2,
+      "rank": "B",
+      "name": "김석현",
+      "preferredType": "men",
+      "coneNumber": "",
+      "gender": "M",
+      "completedGames": 1,
+      "id": "batch-1790334119256-gzumq-9",
+      "order": 10
+    },
+    {
+      "status": "waiting",
+      "totalGames": 2,
+      "name": "노재민",
+      "rank": "B",
+      "order": 11,
+      "submittedShuttlecock": true,
+      "coneNumber": "",
+      "preferredType": "men",
+      "id": "batch-1790334119256-wlx79-10",
+      "gender": "M",
+      "completedGames": 1
+    },
+    {
+      "coneNumber": "",
+      "status": "waiting",
+      "id": "batch-1790334119256-b85oh-11",
+      "preferredType": "men",
+      "totalGames": 2,
+      "submittedShuttlecock": false,
+      "completedGames": 1,
+      "name": "김동기",
+      "rank": "C",
+      "order": 12,
+      "gender": "M"
+    },
+    {
+      "order": 13,
+      "coneNumber": "",
+      "status": "waiting",
+      "gender": "M",
+      "id": "batch-1790334119256-31rbf-12",
+      "totalGames": 2,
+      "preferredType": "men",
+      "submittedShuttlecock": false,
+      "name": "김동우",
+      "rank": "C",
+      "completedGames": 1
+    },
+    {
+      "name": "박대한",
+      "rank": "C",
+      "order": 14,
+      "gender": "M",
+      "id": "batch-1790334119256-biy3g-13",
+      "preferredType": "men",
+      "coneNumber": "",
+      "submittedShuttlecock": false,
+      "completedGames": 1,
+      "status": "waiting",
+      "totalGames": 2
+    },
+    {
+      "preferredType": "men",
+      "order": 15,
+      "gender": "M",
+      "rank": "C",
+      "name": "정종묵",
+      "coneNumber": "",
+      "id": "batch-1790334119256-9gdha-14",
+      "status": "waiting",
+      "submittedShuttlecock": false,
+      "totalGames": 2,
+      "completedGames": 1
+    },
+    {
+      "submittedShuttlecock": false,
+      "preferredType": "men",
+      "totalGames": 2,
+      "status": "waiting",
+      "coneNumber": "",
+      "rank": "C",
+      "name": "송예찬",
+      "id": "batch-1790334119256-tkm8k-15",
+      "gender": "M",
+      "order": 16,
+      "completedGames": 1
+    },
+    {
+      "completedGames": 1,
+      "name": "윤재영",
+      "rank": "C",
+      "gender": "M",
+      "order": 17,
+      "totalGames": 2,
+      "submittedShuttlecock": false,
+      "preferredType": "men",
+      "coneNumber": "",
+      "status": "waiting",
+      "id": "batch-1790334119256-9m125-16"
+    },
+    {
+      "totalGames": 2,
+      "id": "batch-1790334119256-4jn7b-17",
+      "completedGames": 1,
+      "order": 18,
+      "status": "waiting",
+      "name": "윤성현",
+      "rank": "C",
+      "gender": "M",
+      "coneNumber": "",
+      "submittedShuttlecock": false,
+      "preferredType": "men"
+    },
+    {
+      "rank": "A",
+      "name": "안하나",
+      "completedGames": 1,
+      "coneNumber": "",
+      "gender": "F",
+      "status": "waiting",
+      "order": 19,
+      "submittedShuttlecock": false,
+      "preferredType": "women",
+      "totalGames": 2,
+      "id": "batch-1790334119256-s6oqa-18"
+    },
+    {
+      "submittedShuttlecock": false,
+      "status": "playing",
+      "totalGames": 3,
+      "completedGames": 2,
+      "id": "batch-1790334119256-1tf3x-19",
+      "name": "안선진",
+      "rank": "B",
+      "gender": "F",
+      "coneNumber": "",
+      "preferredType": "women",
+      "order": 20
+    },
+    {
+      "status": "playing",
+      "totalGames": 2,
+      "submittedShuttlecock": false,
+      "rank": "B",
+      "name": "박규리",
+      "coneNumber": "",
+      "order": 21,
+      "completedGames": 1,
+      "preferredType": "women",
+      "id": "batch-1790334119256-s2xd6-20",
+      "gender": "F"
+    },
+    {
+      "order": 22,
+      "submittedShuttlecock": false,
+      "id": "batch-1790334119256-fqg4m-21",
+      "preferredType": "women",
+      "gender": "F",
+      "coneNumber": "",
+      "name": "강채연",
+      "rank": "B",
+      "completedGames": 1,
+      "totalGames": 2,
+      "status": "playing"
+    },
+    {
+      "totalGames": 2,
+      "status": "playing",
+      "id": "batch-1790334119256-1m71u-22",
+      "completedGames": 1,
+      "coneNumber": "",
+      "submittedShuttlecock": false,
+      "gender": "F",
+      "order": 23,
+      "name": "안성은",
+      "rank": "B",
+      "preferredType": "women"
+    },
+    {
+      "id": "batch-1790334119256-dqd8j-23",
+      "gender": "F",
+      "completedGames": 1,
+      "totalGames": 2,
+      "preferredType": "women",
+      "order": 24,
+      "coneNumber": "",
+      "name": "김민재",
+      "rank": "B",
+      "submittedShuttlecock": false,
+      "status": "playing"
+    },
+    {
+      "submittedShuttlecock": false,
+      "preferredType": "women",
+      "order": 25,
+      "totalGames": 2,
+      "status": "waiting",
+      "gender": "F",
+      "completedGames": 1,
+      "id": "batch-1790334119256-f4gvl-24",
+      "coneNumber": "",
+      "name": "탁민주",
+      "rank": "B"
+    },
+    {
+      "preferredType": "women",
+      "gender": "F",
+      "coneNumber": "",
+      "id": "batch-1790334119256-k9qq5-25",
+      "name": "한주혜",
+      "rank": "B",
+      "status": "waiting",
+      "submittedShuttlecock": false,
+      "order": 26,
+      "completedGames": 1,
+      "totalGames": 2
+    },
+    {
+      "gender": "F",
+      "coneNumber": "",
+      "completedGames": 1,
+      "preferredType": "women",
+      "order": 27,
+      "id": "batch-1790334119256-ij03r-26",
+      "totalGames": 2,
+      "name": "김나희1",
+      "rank": "C",
+      "status": "waiting",
+      "submittedShuttlecock": false
+    },
+    {
+      "id": "batch-1790334119256-ljika-27",
+      "submittedShuttlecock": false,
+      "completedGames": 1,
+      "order": 28,
+      "totalGames": 2,
+      "status": "waiting",
+      "preferredType": "women",
+      "name": "오민경",
+      "rank": "C",
+      "gender": "F",
+      "coneNumber": ""
+    },
+    {
+      "gender": "F",
+      "coneNumber": "",
+      "preferredType": "women",
+      "id": "batch-1790334119256-11jd0-28",
+      "completedGames": 1,
+      "status": "waiting",
+      "order": 29,
+      "totalGames": 2,
+      "name": "정예지",
+      "rank": "C",
+      "submittedShuttlecock": false
+    },
+    {
+      "gender": "F",
+      "totalGames": 2,
+      "order": 30,
+      "id": "batch-1790334119256-ya800-29",
+      "preferredType": "women",
+      "submittedShuttlecock": false,
+      "completedGames": 1,
+      "coneNumber": "",
+      "rank": "C",
+      "name": "고서연",
+      "status": "waiting"
+    },
+    {
+      "name": "김재희",
+      "rank": "D",
+      "id": "batch-1790334119256-l73iw-30",
+      "completedGames": 1,
+      "order": 31,
+      "gender": "F",
+      "submittedShuttlecock": false,
+      "coneNumber": "",
+      "preferredType": "women",
+      "totalGames": 2,
+      "status": "waiting"
+    },
+    {
+      "id": "batch-1790334119256-0l7he-31",
+      "status": "waiting",
+      "submittedShuttlecock": false,
+      "name": "김나희2",
+      "rank": "D",
+      "totalGames": 2,
+      "completedGames": 1,
+      "order": 32,
+      "coneNumber": "",
+      "gender": "F",
+      "preferredType": "women"
+    },
+    {
+      "order": 33,
+      "id": "batch-1790334119256-4vdua-32",
+      "totalGames": 2,
+      "completedGames": 1,
+      "status": "playing",
+      "name": "최미경",
+      "rank": "D",
+      "coneNumber": "",
+      "gender": "F",
+      "submittedShuttlecock": false,
+      "preferredType": "women"
+    },
+    {
+      "coneNumber": "",
+      "status": "playing",
+      "id": "batch-1790334119256-5khcc-33",
+      "preferredType": "women",
+      "totalGames": 2,
+      "gender": "F",
+      "order": 34,
+      "rank": "D",
+      "name": "신주은",
+      "completedGames": 1,
+      "submittedShuttlecock": false
+    },
+    {
+      "completedGames": 1,
+      "status": "playing",
+      "name": "김선아",
+      "rank": "D",
+      "totalGames": 2,
+      "preferredType": "women",
+      "submittedShuttlecock": false,
+      "id": "batch-1790334119256-lmj43-34",
+      "order": 35,
+      "coneNumber": "",
+      "gender": "F"
+    }
+  ],
+  "games": [
+    {
+      "type": "men",
+      "startedAt": "2026-09-30T06:26:04.580Z",
+      "team2": [
+        {
+          "name": "이상일",
+          "rank": "A",
+          "gender": "M",
+          "memberId": "batch-1790334119256-ybnpk-2"
+        },
+        {
+          "name": "박준성",
+          "rank": "A",
+          "memberId": "batch-1790334119256-y3u21-3",
+          "gender": "M"
+        }
+      ],
+      "scoreDifference": 0,
+      "gameNumber": 1,
+      "id": "game-selected-1790749386628-00jx",
+      "team1": [
+        {
+          "memberId": "batch-1790334119256-fy86i-0",
+          "rank": "A",
+          "name": "김완택",
+          "gender": "M"
+        },
+        {
+          "gender": "M",
+          "name": "김창대",
+          "rank": "A",
+          "memberId": "batch-1790334119256-4z6sw-1"
+        }
+      ],
+      "endedAt": "2026-09-30T07:44:11.075Z",
+      "courtName": "3코트",
+      "estimatedStartTime": "19:00",
+      "courtId": "court-1790749282486",
+      "isEstimatedDuration": true,
+      "durationMinutes": 39,
+      "createdAt": "오후 03:23",
+      "status": "ended",
+      "team1ScoreBalance": 12,
+      "team2ScoreBalance": 12
+    },
+    {
+      "type": "men",
+      "endedAt": "2026-09-30T07:44:54.743Z",
+      "scoreDifference": 1,
+      "team1": [
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-3057r-4",
+          "rank": "A",
+          "name": "정재열"
+        },
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-kfb9q-5",
+          "rank": "B",
+          "name": "리차"
+        }
+      ],
+      "estimatedStartTime": "19:00",
+      "gameNumber": 2,
+      "startedAt": "2026-09-30T06:26:02.565Z",
+      "team2": [
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-xdqfo-6",
+          "name": "주기상",
+          "rank": "B"
+        },
+        {
+          "gender": "M",
+          "name": "박상민",
+          "memberId": "batch-1790334119256-nj5r9-7",
+          "rank": "B"
+        }
+      ],
+      "id": "game-selected-1790749394580-r1fb",
+      "team2ScoreBalance": 10,
+      "status": "ended",
+      "team1ScoreBalance": 11,
+      "courtName": "4코트",
+      "isEstimatedDuration": false,
+      "createdAt": "오후 03:23",
+      "durationMinutes": 79,
+      "courtId": "court-4"
+    },
+    {
+      "endedAt": "2026-09-30T07:43:55.003Z",
+      "scoreDifference": 1,
+      "team1": [
+        {
+          "rank": "B",
+          "name": "박우영",
+          "gender": "M",
+          "memberId": "batch-1790334119256-d68rz-8"
+        },
+        {
+          "name": "김석현",
+          "memberId": "batch-1790334119256-gzumq-9",
+          "rank": "B",
+          "gender": "M"
+        }
+      ],
+      "id": "game-selected-1790749399972-zfz4",
+      "status": "ended",
+      "estimatedStartTime": "19:00",
+      "startedAt": "2026-09-30T06:26:00.389Z",
+      "team2": [
+        {
+          "gender": "M",
+          "name": "노재민",
+          "rank": "B",
+          "memberId": "batch-1790334119256-wlx79-10"
+        },
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-b85oh-11",
+          "rank": "C",
+          "name": "김동기"
+        }
+      ],
+      "team2ScoreBalance": 9,
+      "team1ScoreBalance": 10,
+      "isEstimatedDuration": false,
+      "createdAt": "오후 03:23",
+      "gameNumber": 3,
+      "courtName": "6코트",
+      "type": "men",
+      "courtId": "court-6",
+      "durationMinutes": 78
+    },
+    {
+      "team1": [
+        {
+          "name": "김동우",
+          "rank": "C",
+          "memberId": "batch-1790334119256-31rbf-12",
+          "gender": "M"
+        },
+        {
+          "rank": "C",
+          "name": "박대한",
+          "memberId": "batch-1790334119256-biy3g-13",
+          "gender": "M"
+        }
+      ],
+      "id": "game-selected-1790749403536-fpxw",
+      "team2ScoreBalance": 8,
+      "courtId": "court-6",
+      "estimatedStartTime": "19:15",
+      "team1ScoreBalance": 8,
+      "startedAt": "2026-09-30T07:43:55.003Z",
+      "team2": [
+        {
+          "memberId": "batch-1790334119256-9gdha-14",
+          "gender": "M",
+          "rank": "C",
+          "name": "정종묵"
+        },
+        {
+          "gender": "M",
+          "name": "송예찬",
+          "rank": "C",
+          "memberId": "batch-1790334119256-tkm8k-15"
+        }
+      ],
+      "durationMinutes": 1,
+      "scoreDifference": 0,
+      "gameNumber": 4,
+      "createdAt": "오후 03:23",
+      "endedAt": "2026-09-30T07:45:14.115Z",
+      "status": "ended",
+      "type": "men",
+      "isEstimatedDuration": false,
+      "courtName": "6코트"
+    },
+    {
+      "gameNumber": 5,
+      "startedAt": "2026-09-30T07:44:43.624Z",
+      "team2": [
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-4jn7b-17",
+          "name": "윤성현",
+          "rank": "C"
+        },
+        {
+          "memberId": "batch-1790334119256-1tf3x-19",
+          "gender": "F",
+          "name": "안선진",
+          "rank": "B"
+        }
+      ],
+      "status": "ended",
+      "id": "game-selected-1790749512287-ugpd",
+      "courtId": "court-1790749282486",
+      "durationMinutes": 1,
+      "team1": [
+        {
+          "rank": "C",
+          "name": "윤재영",
+          "gender": "M",
+          "memberId": "batch-1790334119256-9m125-16"
+        },
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-s6oqa-18",
+          "rank": "A",
+          "name": "안하나"
+        }
+      ],
+      "isEstimatedDuration": false,
+      "estimatedStartTime": "19:15",
+      "scoreDifference": 1,
+      "createdAt": "오후 03:25",
+      "courtName": "3코트",
+      "type": "mixed",
+      "endedAt": "2026-09-30T07:45:50.434Z",
+      "team2ScoreBalance": 9,
+      "team1ScoreBalance": 10
+    },
+    {
+      "createdAt": "오후 03:25",
+      "courtName": "4코트",
+      "team2": [
+        {
+          "memberId": "batch-1790334119256-1m71u-22",
+          "gender": "F",
+          "rank": "B",
+          "name": "안성은"
+        },
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-dqd8j-23",
+          "name": "김민재",
+          "rank": "B"
+        }
+      ],
+      "scoreDifference": 0,
+      "team1": [
+        {
+          "rank": "B",
+          "name": "박규리",
+          "memberId": "batch-1790334119256-s2xd6-20",
+          "gender": "F"
+        },
+        {
+          "gender": "F",
+          "rank": "B",
+          "name": "강채연",
+          "memberId": "batch-1790334119256-fqg4m-21"
+        }
+      ],
+      "type": "women",
+      "id": "game-selected-1790749522080-1e4f",
+      "startedAt": "2026-09-30T07:44:54.743Z",
+      "team1ScoreBalance": 10,
+      "estimatedStartTime": "19:15",
+      "team2ScoreBalance": 10,
+      "status": "playing",
+      "courtId": "court-4",
+      "gameNumber": 6
+    },
+    {
+      "endedAt": "2026-09-30T07:45:40.208Z",
+      "createdAt": "오후 03:25",
+      "durationMinutes": 1,
+      "status": "ended",
+      "isEstimatedDuration": false,
+      "gameNumber": 7,
+      "id": "game-selected-1790749527440-z8me",
+      "courtName": "6코트",
+      "team1": [
+        {
+          "rank": "B",
+          "name": "탁민주",
+          "memberId": "batch-1790334119256-f4gvl-24",
+          "gender": "F"
+        },
+        {
+          "rank": "C",
+          "name": "김나희1",
+          "gender": "F",
+          "memberId": "batch-1790334119256-ij03r-26"
+        }
+      ],
+      "scoreDifference": 0,
+      "startedAt": "2026-09-30T07:45:14.115Z",
+      "estimatedStartTime": "19:30",
+      "team2": [
+        {
+          "rank": "B",
+          "name": "한주혜",
+          "gender": "F",
+          "memberId": "batch-1790334119256-k9qq5-25"
+        },
+        {
+          "name": "오민경",
+          "rank": "C",
+          "memberId": "batch-1790334119256-ljika-27",
+          "gender": "F"
+        }
+      ],
+      "team2ScoreBalance": 9,
+      "courtId": "court-6",
+      "type": "women",
+      "team1ScoreBalance": 9
+    },
+    {
+      "startedAt": "2026-09-30T07:45:40.208Z",
+      "type": "women",
+      "estimatedStartTime": "19:30",
+      "courtId": "court-6",
+      "team1": [
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-ya800-29",
+          "rank": "C",
+          "name": "고서연"
+        },
+        {
+          "gender": "F",
+          "rank": "D",
+          "name": "김재희",
+          "memberId": "batch-1790334119256-l73iw-30"
+        }
+      ],
+      "gameNumber": 8,
+      "status": "ended",
+      "team2": [
+        {
+          "memberId": "batch-1790334119256-11jd0-28",
+          "rank": "C",
+          "name": "정예지",
+          "gender": "F"
+        },
+        {
+          "rank": "D",
+          "name": "김나희2",
+          "memberId": "batch-1790334119256-0l7he-31",
+          "gender": "F"
+        }
+      ],
+      "durationMinutes": 1,
+      "id": "game-selected-1790749534902-bio0",
+      "createdAt": "오후 03:25",
+      "scoreDifference": 0,
+      "team2ScoreBalance": 7,
+      "team1ScoreBalance": 7,
+      "isEstimatedDuration": false,
+      "courtName": "6코트",
+      "endedAt": "2026-09-30T07:46:24.564Z"
+    },
+    {
+      "scoreDifference": 2,
+      "gameNumber": 9,
+      "courtName": "6코트",
+      "createdAt": "오후 03:25",
+      "courtId": "court-6",
+      "id": "game-selected-1790749550968-w319",
+      "team2ScoreBalance": 8,
+      "team1ScoreBalance": 6,
+      "status": "playing",
+      "team2": [
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-lmj43-34",
+          "name": "김선아",
+          "rank": "D"
+        },
+        {
+          "name": "안선진",
+          "rank": "B",
+          "gender": "F",
+          "memberId": "batch-1790334119256-1tf3x-19"
+        }
+      ],
+      "startedAt": "2026-09-30T07:46:24.564Z",
+      "estimatedStartTime": "19:45",
+      "team1": [
+        {
+          "rank": "D",
+          "name": "최미경",
+          "memberId": "batch-1790334119256-4vdua-32",
+          "gender": "F"
+        },
+        {
+          "memberId": "batch-1790334119256-5khcc-33",
+          "gender": "F",
+          "rank": "D",
+          "name": "신주은"
+        }
+      ],
+      "type": "women"
+    },
+    {
+      "team1ScoreBalance": 11,
+      "team2ScoreBalance": 11,
+      "courtName": "3코트",
+      "id": "game-1790754410839-e8fez",
+      "team2": [
+        {
+          "name": "김창대",
+          "memberId": "batch-1790334119256-4z6sw-1",
+          "rank": "A",
+          "gender": "M"
+        },
+        {
+          "memberId": "batch-1790334119256-d68rz-8",
+          "gender": "M",
+          "rank": "B",
+          "name": "박우영"
+        }
+      ],
+      "courtId": "court-1790749282486",
+      "createdAt": "오후 04:46",
+      "status": "before",
+      "scoreDifference": 0,
+      "team1": [
+        {
+          "gender": "M",
+          "rank": "A",
+          "name": "김완택",
+          "memberId": "batch-1790334119256-fy86i-0"
+        },
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-kfb9q-5",
+          "rank": "B",
+          "name": "리차"
+        }
+      ],
+      "type": "men",
+      "gameNumber": 10,
+      "estimatedStartTime": "19:45"
+    },
+    {
+      "team2": [
+        {
+          "gender": "M",
+          "rank": "A",
+          "name": "정재열",
+          "memberId": "batch-1790334119256-3057r-4"
+        },
+        {
+          "memberId": "batch-1790334119256-31rbf-12",
+          "name": "김동우",
+          "rank": "C",
+          "gender": "M"
+        }
+      ],
+      "team1": [
+        {
+          "memberId": "batch-1790334119256-ybnpk-2",
+          "rank": "A",
+          "gender": "M",
+          "name": "이상일"
+        },
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-b85oh-11",
+          "rank": "C",
+          "name": "김동기"
+        }
+      ],
+      "type": "men",
+      "status": "before",
+      "courtId": "court-6",
+      "estimatedStartTime": "20:00",
+      "id": "game-1790754410847-uoq21",
+      "team1ScoreBalance": 10,
+      "team2ScoreBalance": 10,
+      "courtName": "6코트",
+      "gameNumber": 11,
+      "createdAt": "오후 04:46",
+      "scoreDifference": 0
+    },
+    {
+      "id": "game-1790754410854-kf27x",
+      "gameNumber": 12,
+      "team2": [
+        {
+          "memberId": "batch-1790334119256-xdqfo-6",
+          "name": "주기상",
+          "rank": "B",
+          "gender": "M"
+        },
+        {
+          "rank": "B",
+          "name": "김석현",
+          "gender": "M",
+          "memberId": "batch-1790334119256-gzumq-9"
+        }
+      ],
+      "team1ScoreBalance": 10,
+      "team2ScoreBalance": 10,
+      "team1": [
+        {
+          "memberId": "batch-1790334119256-y3u21-3",
+          "gender": "M",
+          "name": "박준성",
+          "rank": "A"
+        },
+        {
+          "name": "박대한",
+          "rank": "C",
+          "memberId": "batch-1790334119256-biy3g-13",
+          "gender": "M"
+        }
+      ],
+      "status": "before",
+      "scoreDifference": 0,
+      "type": "men",
+      "courtId": "court-4",
+      "createdAt": "오후 04:46",
+      "estimatedStartTime": "20:00",
+      "courtName": "4코트"
+    },
+    {
+      "createdAt": "오후 04:46",
+      "estimatedStartTime": "20:00",
+      "team1": [
+        {
+          "memberId": "batch-1790334119256-nj5r9-7",
+          "gender": "M",
+          "name": "박상민",
+          "rank": "B"
+        },
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-9gdha-14",
+          "rank": "C",
+          "name": "정종묵"
+        }
+      ],
+      "courtName": "3코트",
+      "scoreDifference": 0,
+      "gameNumber": 13,
+      "team2": [
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-wlx79-10",
+          "rank": "B",
+          "name": "노재민"
+        },
+        {
+          "gender": "M",
+          "rank": "C",
+          "name": "윤재영",
+          "memberId": "batch-1790334119256-9m125-16"
+        }
+      ],
+      "team2ScoreBalance": 9,
+      "team1ScoreBalance": 9,
+      "courtId": "court-1790749282486",
+      "id": "game-1790754410860-iiryg",
+      "status": "before",
+      "type": "men"
+    },
+    {
+      "team1ScoreBalance": 10,
+      "team1": [
+        {
+          "gender": "F",
+          "rank": "A",
+          "name": "안하나",
+          "memberId": "batch-1790334119256-s6oqa-18"
+        },
+        {
+          "rank": "C",
+          "memberId": "batch-1790334119256-11jd0-28",
+          "name": "정예지",
+          "gender": "F"
+        }
+      ],
+      "team2ScoreBalance": 10,
+      "status": "before",
+      "scoreDifference": 0,
+      "type": "women",
+      "team2": [
+        {
+          "name": "탁민주",
+          "rank": "B",
+          "memberId": "batch-1790334119256-f4gvl-24",
+          "gender": "F"
+        },
+        {
+          "memberId": "batch-1790334119256-k9qq5-25",
+          "gender": "F",
+          "rank": "B",
+          "name": "한주혜"
+        }
+      ],
+      "createdAt": "오후 04:46",
+      "estimatedStartTime": "20:15",
+      "id": "game-1790754410866-lb7sv",
+      "courtId": "court-6",
+      "courtName": "6코트",
+      "gameNumber": 14
+    },
+    {
+      "type": "women",
+      "courtId": "court-4",
+      "team1ScoreBalance": 7,
+      "status": "before",
+      "team2ScoreBalance": 7,
+      "createdAt": "오후 04:46",
+      "courtName": "4코트",
+      "scoreDifference": 0,
+      "gameNumber": 15,
+      "id": "game-1790754410871-6i7lx",
+      "team2": [
+        {
+          "name": "오민경",
+          "gender": "F",
+          "rank": "C",
+          "memberId": "batch-1790334119256-ljika-27"
+        },
+        {
+          "gender": "F",
+          "rank": "D",
+          "memberId": "batch-1790334119256-0l7he-31",
+          "name": "김나희2"
+        }
+      ],
+      "estimatedStartTime": "20:15",
+      "team1": [
+        {
+          "rank": "C",
+          "name": "김나희1",
+          "memberId": "batch-1790334119256-ij03r-26",
+          "gender": "F"
+        },
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-l73iw-30",
+          "rank": "D",
+          "name": "김재희"
+        }
+      ]
+    },
+    {
+      "gameNumber": 16,
+      "courtId": "court-1790749282486",
+      "createdAt": "오후 04:46",
+      "team1ScoreBalance": 8,
+      "courtName": "3코트",
+      "scoreDifference": 2,
+      "type": "mixed",
+      "id": "game-1790754410872-h2gl1",
+      "team2ScoreBalance": 10,
+      "team2": [
+        {
+          "memberId": "batch-1790334119256-4jn7b-17",
+          "gender": "M",
+          "rank": "C",
+          "name": "윤성현"
+        },
+        {
+          "gender": "M",
+          "memberId": "batch-1790334119256-fy86i-0",
+          "name": "김완택",
+          "rank": "A"
+        }
+      ],
+      "team1": [
+        {
+          "rank": "C",
+          "name": "송예찬",
+          "memberId": "batch-1790334119256-tkm8k-15",
+          "gender": "M"
+        },
+        {
+          "memberId": "batch-1790334119256-ya800-29",
+          "rank": "C",
+          "name": "고서연",
+          "gender": "F"
+        }
+      ],
+      "estimatedStartTime": "20:15",
+      "status": "before"
+    },
+    {
+      "id": "game-1790754410872-i3ay7",
+      "gameNumber": 17,
+      "scoreDifference": 2,
+      "status": "before",
+      "courtId": "court-6",
+      "createdAt": "오후 04:46",
+      "type": "women",
+      "estimatedStartTime": "20:30",
+      "courtName": "6코트",
+      "team2": [
+        {
+          "memberId": "batch-1790334119256-lmj43-34",
+          "gender": "F",
+          "name": "김선아",
+          "rank": "D"
+        },
+        {
+          "name": "안선진",
+          "rank": "B",
+          "memberId": "batch-1790334119256-1tf3x-19",
+          "gender": "F"
+        }
+      ],
+      "team2ScoreBalance": 8,
+      "team1ScoreBalance": 6,
+      "team1": [
+        {
+          "rank": "D",
+          "name": "최미경",
+          "memberId": "batch-1790334119256-4vdua-32",
+          "gender": "F"
+        },
+        {
+          "rank": "D",
+          "name": "신주은",
+          "gender": "F",
+          "memberId": "batch-1790334119256-5khcc-33"
+        }
+      ]
+    },
+    {
+      "createdAt": "오후 04:46",
+      "courtName": "4코트",
+      "team1ScoreBalance": 10,
+      "estimatedStartTime": "20:30",
+      "team2ScoreBalance": 10,
+      "type": "women",
+      "team2": [
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-1m71u-22",
+          "name": "안성은",
+          "rank": "B"
+        },
+        {
+          "memberId": "batch-1790334119256-dqd8j-23",
+          "gender": "F",
+          "rank": "B",
+          "name": "김민재"
+        }
+      ],
+      "id": "game-1790754410872-omlu5",
+      "team1": [
+        {
+          "gender": "F",
+          "memberId": "batch-1790334119256-s2xd6-20",
+          "rank": "B",
+          "name": "박규리"
+        },
+        {
+          "memberId": "batch-1790334119256-fqg4m-21",
+          "gender": "F",
+          "name": "강채연",
+          "rank": "B"
+        }
+      ],
+      "scoreDifference": 0,
+      "status": "before",
+      "courtId": "court-4",
+      "gameNumber": 18
+    }
+  ],
+  "adminCode": "1988",
+  "courts": [
+    {
+      "totalCones": 3,
+      "cones": [
+        true,
+        true,
+        true
+      ],
+      "id": "court-6",
+      "number": 6,
+      "reservedCones": 3,
+      "name": "6코트"
+    },
+    {
+      "id": "court-4",
+      "number": 4,
+      "cones": [
+        true,
+        true,
+        true
+      ],
+      "reservedCones": 3,
+      "name": "4코트",
+      "totalCones": 3
+    },
+    {
+      "reservedCones": 2,
+      "totalCones": 3,
+      "cones": [
+        true,
+        true,
+        false
+      ],
+      "id": "court-1790749282486",
+      "number": 3,
+      "name": "3코트"
+    }
+  ],
+  "date": "2026-09-25"
+}

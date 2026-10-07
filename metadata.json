@@ -1,0 +1,6 @@
+{
+  "name": "HighCock - 하이콕 배드민턴 클럽 대진표 & 코트 운영",
+  "description": "배드민턴 클럽 대진표 자동 생성, 꼬깔 코트 현황 관리, 실시간 참여 명단 및 게임 목록 운영 시스템",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "permissions": []
+}
